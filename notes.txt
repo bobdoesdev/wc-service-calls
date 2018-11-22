@@ -1,0 +1,11 @@
+--add metabox checkbox to product page that is checked for checkout form
+
+
+
+
+
+
+
+
+
+
